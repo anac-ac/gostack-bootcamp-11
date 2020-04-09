@@ -8,6 +8,10 @@
 
 ## Índice de aulas
 
-- [01 - Back-end com Node.js]
-
-- [02 - Desafio Conceitos Node.js]
+- 01 - Back-end com Node.js
+- 02 - Desafio: Conceitos Node.js
+- 03 - Front-end com ReactJS
+- 04 - Desafio: Conceitos do ReactJS
+- 05 - Mobile com React Native
+- 06 - Desafio: Conceitos do React Native
+- 07 - TypeScript
