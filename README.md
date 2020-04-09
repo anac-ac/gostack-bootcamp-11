@@ -6,7 +6,7 @@
   Bootcamp GoStack - 2020
 </h3>
 
-## Índice de aulas
+## Índice de pastas
 
 - [Nível 01](https://github.com/anac-ac/gostack-bootcamp-11/tree/master/conceitos-dev)
 
