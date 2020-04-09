@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import api from './services/api.js';
 
 import './App.css';
-import backgroundImage from './assets/background.jpg';
+//import backgroundImage from './assets/background.jpg';
 
 import Header from './components/Header';
 
