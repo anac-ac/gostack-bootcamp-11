@@ -77,3 +77,6 @@ Repositório criado para organizar todos os projetos desenvolvidos no curso **Bo
 
 - [Desafio: Fundamentos Node.js](https://github.com/anac-ac/gostack-bootcamp-11/tree/master/challenge-node-js-fundamentals)
   - 🥇 Nesse desafio, criei uma aplicação com todos os ensinamentos da primeira disciplina, do nível 2: **Primeiro projeto com Node.JS**
+
+- [Desafio: Database upload](https://github.com/anac-ac/gostack-bootcamp-11/tree/master/database-upload-challenge)
+  - 🥇 Nesse desafio, continuei a aplicação anterior, usando typescript, para criação e cadastro de informações no banco de dados com typeorm e envios de arquivo com Multer, como ensinado na segunda disciplina do nível 2: **Iniciando back-end do app**
