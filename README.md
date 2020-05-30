@@ -66,6 +66,24 @@ Repositório criado para organizar todos os projetos desenvolvidos no curso **Bo
     - Upload de imagens
     - Tratando exceções
 
+- [Nível 03](https://github.com/anac-ac/gostack-bootcamp-11/tree/master/primeiro-projeto-react)
+
+  - 📑 Primeiro projeto com React
+    - Estrutura de padrões
+    - Criando a aplicação
+  
+  - 📑 Iniciando front-end web
+    - Estrutura das páginas
+    - Autenticação
+    - Mensagens de toast
+    - Rotas da aplicação
+
+  - 📑 Iniciando aplicativo mobile
+    - Estrutura e padrões
+    - Autenticação e cadastro
+    - Conectando com a API
+
+
 - [Desafio: Conceitos do Node.js](https://github.com/anac-ac/gostack-bootcamp-11/tree/master/gostack-node-challenge)
   - 🥇 Nesse desafio, criei uma aplicação com todos os ensinamentos da primeira disciplina, do nível 1: **Back-end com Node.js**
 

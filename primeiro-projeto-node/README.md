@@ -50,17 +50,17 @@ Pasta com os arquivos do segundo nível do bootcamp.
     - [x] Criação de registros
     - [x] Criptografia de senha
 
-  - [ ] Autenticação
+  - [x] Autenticação
     - [x] Conceitos de JWT
     - [x] Validando credenciais
-    - [ ] Gerando token JWT
-    - [ ] Rotas autenticadas
+    - [x] Gerando token JWT
+    - [x] Rotas autenticadas
 
-  - [ ] Upload de imagens
-    - [ ] Upload de arquivos
-    - [ ] Atualizando avatar
-    - [ ] Servindo arquivos estáticos
+  - [x] Upload de imagens
+    - [x] Upload de arquivos
+    - [x] Atualizando avatar
+    - [x] Servindo arquivos estáticos
 
-  - [ ] Tratando exceções
-    - [ ] Criando classe de erro
-    - [ ] Lidando com erros
+  - [x] Tratando exceções
+    - [x] Criando classe de erro
+    - [x] Lidando com erros
