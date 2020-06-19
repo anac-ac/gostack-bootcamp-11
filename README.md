@@ -3,41 +3,41 @@
 </h1>
 
 <h2 align="center">
-  🚀  RocketSeat - Bootcamp GoStack - 2020
+  :rocket:  RocketSeat - Bootcamp GoStack - 2020
 </h2>
 
 
-## 📝  Sobre
+## :pencil:  Sobre
 
 Repositório criado para organizar todos os projetos desenvolvidos no curso **Bootcamp GoStack**. 
 
 ---
 
 - [Desafio: Conceitos do Node.js](https://github.com/anac-ac/gostack-bootcamp-11/tree/master/gostack-node-challenge)
-  - 🥇  Nesse desafio, criei uma aplicação com todos os ensinamentos da primeira disciplina, do nível 1: **Back-end com Node.js**
+  - :1st_place_medal:	  Nesse desafio, criei uma aplicação com todos os ensinamentos da primeira disciplina, do nível 1: **Back-end com Node.js**
 
 - [Desafio: Conceitos do ReactJS](https://github.com/anac-ac/gostack-bootcamp-11/tree/master/reactjs-concepts-challenge)
-  - 🥇  Nesse desafio, criei uma aplicação com todos os ensinamentos da segunda disciplina, do nível 1: **Front-end com ReactJS**
+  - :1st_place_medal:	  Nesse desafio, criei uma aplicação com todos os ensinamentos da segunda disciplina, do nível 1: **Front-end com ReactJS**
 
 - [Desafio: Conceitos do React Native](https://github.com/anac-ac/gostack-bootcamp-11/tree/master/react-native-concepts-challenge)
-  - 🥇  Nesse desafio, criei uma aplicação com todos os ensinamentos da terceira disciplina, do nível 1: **Mobile com React Native**
+  - :1st_place_medal:	  Nesse desafio, criei uma aplicação com todos os ensinamentos da terceira disciplina, do nível 1: **Mobile com React Native**
 
 - [Desafio: Fundamentos Node.js](https://github.com/anac-ac/gostack-bootcamp-11/tree/master/challenge-node-js-fundamentals)
-  - 🥇  Nesse desafio, criei uma aplicação com todos os ensinamentos da primeira disciplina, do nível 2: **Primeiro projeto com Node.JS**
+  - :1st_place_medal:	  Nesse desafio, criei uma aplicação com todos os ensinamentos da primeira disciplina, do nível 2: **Primeiro projeto com Node.JS**
 
 - [Desafio: Database upload](https://github.com/anac-ac/gostack-bootcamp-11/tree/master/database-upload-challenge)
-  - 🥇  Nesse desafio, continuei a aplicação anterior, usando typescript, para criação e cadastro de informações no banco de dados com typeorm e envios de arquivo com Multer, como ensinado na segunda disciplina do nível 2: **Iniciando back-end do app**
+  - :1st_place_medal:	  Nesse desafio, continuei a aplicação anterior, usando typescript, para criação e cadastro de informações no banco de dados com typeorm e envios de arquivo com Multer, como ensinado na segunda disciplina do nível 2: **Iniciando back-end do app**
 
 - [Desafio: Fundamentos ReactJS](https://github.com/anac-ac/gostack-bootcamp-11/tree/master/reactjs-fundamentals-challenge)
-  - 🥇  Nesse desafio, foi feito a automoção do frontend para pegar as informações da API desenvolvida nos desafios anteriores, seguindo as lições da primeira disciplina do nível 3: **Primeiro projeto com React**
+  - :1st_place_medal:	  Nesse desafio, foi feito a automoção do frontend para pegar as informações da API desenvolvida nos desafios anteriores, seguindo as lições da primeira disciplina do nível 3: **Primeiro projeto com React**
 
   ---
 
-## 📂  Índice de pastas
+## :file_folder:  Índice de pastas
 
 - [Nível 01](https://github.com/anac-ac/gostack-bootcamp-11/tree/master/conceitos-dev)
 
-  - 📑  Back-end com Node.js
+  - :bookmark_tabs:  Back-end com Node.js
     - Conceitos NodeJS
     - Conceitos API REST
     - Criando projeto Node
@@ -48,7 +48,7 @@ Repositório criado para organizar todos os projetos desenvolvidos no curso **Bo
     - Aplicação Funcional
     - Middlewares
 
-  - 📑  Front-end com ReactJS
+  - :bookmark_tabs:  Front-end com ReactJS
     - Conceitos ReactJS
     - Configurando Babel
     - Configurando Webpack
@@ -59,7 +59,7 @@ Repositório criado para organizar todos os projetos desenvolvidos no curso **Bo
     - Listando Projetos da API
     - Cadastrando Projetos
 
-  - 📑  Mobile com React Native
+  - :bookmark_tabs:  Mobile com React Native
     - Arquitetura React Native
     - Configurando SDK
     - Criando novo projeto
@@ -67,7 +67,7 @@ Repositório criado para organizar todos os projetos desenvolvidos no curso **Bo
     - Listando projetos da API
     - Criando novos projetos
 
-  - 📑  Typescript
+  - :bookmark_tabs:  Typescript
     - Por que Typescript?
     - Configurando o projeto
     - Quando adicionar tipos
@@ -75,11 +75,11 @@ Repositório criado para organizar todos os projetos desenvolvidos no curso **Bo
 
 - [Nível 02](https://github.com/anac-ac/gostack-bootcamp-11/tree/master/primeiro-projeto-node)
 
-  - 📑  Primeiro projeto com Node.JS
+  - :bookmark_tabs:  Primeiro projeto com Node.JS
     - Estrutura de padrões
     - Construindo Aplicação
   
-  - 📑  Iniciando back-end do app
+  - :bookmark_tabs:  Iniciando back-end do app
     - Banco de dados
     - Cadastro de Usuários
     - Autenticação
@@ -88,17 +88,17 @@ Repositório criado para organizar todos os projetos desenvolvidos no curso **Bo
 
 - [Nível 03](https://github.com/anac-ac/gostack-bootcamp-11/tree/master/primeiro-projeto-react)
 
-  - 📑  Primeiro projeto com React
+  - :bookmark_tabs:  Primeiro projeto com React
     - Estrutura de padrões
     - Criando a aplicação
   
-  - 📑  Iniciando front-end web
+  - :bookmark_tabs:  Iniciando front-end web
     - Estrutura das páginas
     - Autenticação
     - Mensagens de toast
     - Rotas da aplicação
 
-  - 📑  Iniciando aplicativo mobile
+  - :bookmark_tabs:  Iniciando aplicativo mobile
     - Estrutura e padrões
     - Autenticação e cadastro
     - Conectando com a API
