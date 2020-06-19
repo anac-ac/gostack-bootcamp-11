@@ -9,7 +9,7 @@ import api from '../../services/api';
 
 import { useToast } from '../../hooks/toast';
 
-import getValidationErros from '../../utils/getValidationErrors';
+import getValidationErrors from '../../utils/getValidationErrors';
 
 import logoImg from '../../assets/logo.svg';
 
@@ -57,7 +57,7 @@ const SignUp: React.FC = () => {
         });
       } catch (err) {
         if (err instanceof Yup.ValidationError) {
-          const errors = getValidationErros(err);
+          const errors = getValidationErrors(err);
 
           formRef.current?.setErrors(errors);
 
