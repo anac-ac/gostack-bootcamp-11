@@ -86,22 +86,37 @@ Repositório criado para organizar todos os projetos desenvolvidos no curso **Bo
     - Upload de imagens
     - Tratando exceções
 
-- [Nível 03](https://github.com/anac-ac/gostack-bootcamp-11/tree/master/primeiro-projeto-react)
+- Nível 03
 
-  - :bookmark_tabs:  Primeiro projeto com React
+  - :bookmark_tabs:  [Primeiro projeto com React](https://github.com/anac-ac/gostack-bootcamp-11/tree/master/primeiro-projeto-react)
     - Estrutura de padrões
     - Criando a aplicação
   
-  - :bookmark_tabs:  Iniciando front-end web
+  - :bookmark_tabs:  [Iniciando front-end web](https://github.com/anac-ac/gostack-bootcamp-11/tree/master/gobarber-web)
     - Estrutura das páginas
     - Autenticação
     - Mensagens de toast
     - Rotas da aplicação
 
-  - :bookmark_tabs:  Iniciando aplicativo mobile
+  - :bookmark_tabs:  [Iniciando aplicativo mobile](https://github.com/anac-ac/gostack-bootcamp-11/tree/master/appgobarber)
     - Estrutura e padrões
     - Autenticação e cadastro
     - Conectando com a API
 
+- Nível 04
+
+  - :bookmark_tabs:  Arquitetura e testes no Node.js
+    - Arquitetura e DDD
+    - Testes e TDD
+  
+  - :bookmark_tabs:  Continuando back-end do app
+    - Estrutura e Ajustes
+    - Perfil do usuário
+    - Agendamento
+
+  - :bookmark_tabs:  Finalizando back-end do app
+    - Prestador de serviços
+    - Personalizando para produção
+    - Cache e segurança
 
 
