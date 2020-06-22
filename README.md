@@ -13,23 +13,26 @@ Repositório criado para organizar todos os projetos desenvolvidos no curso **Bo
 
 ---
 
-- [Desafio: Conceitos do Node.js](https://github.com/anac-ac/gostack-bootcamp-11/tree/master/challenges/gostack-node-challenge)
-  - :1st_place_medal:	  Nesse desafio, criei uma aplicação com todos os ensinamentos da primeira disciplina, do nível 1: **Back-end com Node.js**
+- [Desafio: 02 - Conceitos do Node.js](https://github.com/anac-ac/gostack-bootcamp-11/tree/master/challenges/gostack-node-challenge)
+  - :1st_place_medal:	  Nesse desafio, criei uma aplicação com todos os ensinamentos da primeira disciplina, do nível 1: **Back-end com Node.js**.
 
-- [Desafio: Conceitos do ReactJS](https://github.com/anac-ac/gostack-bootcamp-11/tree/master/challenges/reactjs-concepts-challenge)
-  - :1st_place_medal:	  Nesse desafio, criei uma aplicação com todos os ensinamentos da segunda disciplina, do nível 1: **Front-end com ReactJS**
+- [Desafio: 03 - Conceitos do ReactJS](https://github.com/anac-ac/gostack-bootcamp-11/tree/master/challenges/reactjs-concepts-challenge)
+  - :1st_place_medal:	  Nesse desafio, criei uma aplicação com todos os ensinamentos da segunda disciplina, do nível 1: **Front-end com ReactJS**.
 
-- [Desafio: Conceitos do React Native](https://github.com/anac-ac/gostack-bootcamp-11/tree/master/challenges/react-native-concepts-challenge)
-  - :1st_place_medal:	  Nesse desafio, criei uma aplicação com todos os ensinamentos da terceira disciplina, do nível 1: **Mobile com React Native**
+- [Desafio: 04 - Conceitos do React Native](https://github.com/anac-ac/gostack-bootcamp-11/tree/master/challenges/react-native-concepts-challenge)
+  - :1st_place_medal:	  Nesse desafio, criei uma aplicação com todos os ensinamentos da terceira disciplina, do nível 1: **Mobile com React Native**.
 
-- [Desafio: Fundamentos Node.js](https://github.com/anac-ac/gostack-bootcamp-11/tree/master/challenges/challenge-node-js-fundamentals)
-  - :1st_place_medal:	  Nesse desafio, criei uma aplicação com todos os ensinamentos da primeira disciplina, do nível 2: **Primeiro projeto com Node.JS**
+- [Desafio: 05 - Fundamentos Node.js](https://github.com/anac-ac/gostack-bootcamp-11/tree/master/challenges/challenge-node-js-fundamentals)
+  - :1st_place_medal:	  Nesse desafio, criei uma aplicação com todos os ensinamentos da primeira disciplina, do nível 2: **Primeiro projeto com Node.JS**.
 
-- [Desafio: Database upload](https://github.com/anac-ac/gostack-bootcamp-11/tree/master/challenges/database-upload-challenge)
-  - :1st_place_medal:	  Nesse desafio, continuei a aplicação anterior, usando typescript, para criação e cadastro de informações no banco de dados com typeorm e envios de arquivo com Multer, como ensinado na segunda disciplina do nível 2: **Iniciando back-end do app**
+- [Desafio: 06 - Database upload](https://github.com/anac-ac/gostack-bootcamp-11/tree/master/challenges/database-upload-challenge)
+  - :1st_place_medal:	  Nesse desafio, continuei a aplicação anterior, usando typescript, para criação e cadastro de informações no banco de dados com typeorm e envios de arquivo com Multer, como ensinado na segunda disciplina do nível 2: **Iniciando back-end do app**.
 
-- [Desafio: Fundamentos ReactJS](https://github.com/anac-ac/gostack-bootcamp-11/tree/master/challenges/reactjs-fundamentals-challenge)
-  - :1st_place_medal:	  Nesse desafio, foi feito a automoção do frontend para pegar as informações da API desenvolvida nos desafios anteriores, seguindo as lições da primeira disciplina do nível 3: **Primeiro projeto com React**
+- [Desafio: 07 - Fundamentos ReactJS](https://github.com/anac-ac/gostack-bootcamp-11/tree/master/challenges/reactjs-fundamentals-challenge)
+  - :1st_place_medal:	  Nesse desafio, foi feito a automoção do frontend para pegar as informações da API desenvolvida nos desafios anteriores, seguindo as lições da primeira disciplina do nível 3: **Primeiro projeto com React**.
+
+- [Desafio: 08 - Fundamentos React-Native](https://github.com/anac-ac/gostack-bootcamp-11/tree/master/challenges/react-native-fundamentals-challenge)
+  - :1st_place_medal:	  Nesse desafio, utilizei uma fake api, já disponibilizada pela equipe da Rocketseat, para desenvolver uma nova aplicação, a GoMarketplace. Seguindo as lições da terceira disciplina do nível 3 **Primeiro projeto com React**, junto com TypeScript, utilizando rotas, Async Storage e a Context API. 
 
   ---
 
